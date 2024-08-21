@@ -2,4 +2,6 @@
 
 ## Welcome to project
 
-<h3>sub heading</h3>
+<h3>Sub heading</h3>
+<p>This is spartaaa</p>
+
